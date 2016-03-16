@@ -17,7 +17,7 @@
 
 8 - Na instalação do GRUB ele mesmo irá detectar o sistema EFI e instalar o carregador de inicialização para a partição EFI no /dev/sda1 (pode variar de caso para caso)
 
-9 - Abra agora um cervaja, beba bem devagar, e espere a mágica acontecer, retire o USB.
+9 - Abra agora um cerveja, beba bem devagar, e espere a mágica acontecer (claro, vocês deve saber instalar o eOS assim como qualquer outro sistema, em breve escreveremos um tuto sobre isso), retire o USB.
 
 10 - O rEFInd irá carregar e mostrar para você Entre OSX ou ElementaryOS!
 
