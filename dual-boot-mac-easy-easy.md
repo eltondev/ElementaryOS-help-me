@@ -1,5 +1,5 @@
 
-1 - Baixe o zip para OSX > http://www.rodsbooks.com/refind/getting.html (Use o arquivo binário)
+1 - Baixe o zip para OSX > http://www.rodsbooks.com/refind/getting.html (Use o arquivo binário).
 
 2 - Extraia e executa install.sh (no OSX)
 
@@ -19,6 +19,6 @@
 
 9 - Abra agora um cervaja, beba bem devagar, e espere a mágica acontecer, retire o USB.
 
-10 - O r  eREFInd irá carregar e mostrar para você Entre OSX ou ElementaryOS!
+10 - O rEFInd irá carregar e mostrar para você Entre OSX ou ElementaryOS!
 
 11 - Beijo do magrão!
