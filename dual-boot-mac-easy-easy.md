@@ -1,5 +1,5 @@
 
-1 - Baixe o zip binário para OSX
+1 - Baixe o zip binário para OSX > http://www.rodsbooks.com/refind/index.html
 
 2 - Extraia e executa install.sh (no OSX)
 
